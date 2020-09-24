@@ -1,1 +1,1 @@
-# SSD1306-STM32-Driver
+# SSD1306 STM32 Driver
