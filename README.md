@@ -1,15 +1,15 @@
 # SSD1306 STM32 Driver
 
-#Introduction to I2C Protocol
+# Introduction to I2C Protocol
 
-#Toolchain Setup
+# Toolchain Setup
 
-#Circuit
+# Circuit
 
-#Understanding the datasheet
-##Initialization
-##Functions
+# Understanding the datasheet
+## Initialization
+## Functions
 
-#References
+# References
 [SSD1306 Datasheet](https://cdn-shop.adafruit.com/datasheets/SSD1306.pdf)
 [OLED Interface with 8051](https://exploreembedded.com/wiki/OLED_Interface_With_8051)
